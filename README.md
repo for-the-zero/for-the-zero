@@ -32,9 +32,7 @@ Coming soon...
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=for-the-zero) | ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=for-the-zero)
-:--:|:--:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=for-the-zero) | ![GitHub Streak](https://streak-stats.demolab.com/?user=for-the-zero)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=for-the-zero) ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=for-the-zero) ![GitHub Streak](https://streak-stats.demolab.com/?user=for-the-zero)
 
 
 
