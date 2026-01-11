@@ -1,8 +1,8 @@
 # Hi! I'm for_the_zero
 
-## [>> 前往个人网站吧 <<](https://forthezero.dpdns.org)
+## [>> 前往个人网站吧 <<](https://ftz.is-a.dev/)
 
-## [>> Go To My Personal Website<<](https://forthezero.dpdns.org)
+## [>> Go To My Personal Website<<](https://ftz.is-a.dev/)
 
 ---
 
@@ -14,9 +14,9 @@ JS/TS | Python
 
 ### Stacks
 
-Node.js | Bun | React | Vite | Electron | Plain JS | Expo | DearPyGUI | Flet | ...
-:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: 
-![](https://img.icons8.com/fluency/96/node-js.png) | ![](https://bun.sh/logo.svg) | ![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png) | ![](https://img.icons8.com/fluency/96/vite.png) | ![](https://github.com/user-attachments/assets/efbe777c-ecbb-434b-a3a3-16004bdd5780) | ![](https://img.icons8.com/color/96/javascript--v1.png) | ![](https://img.icons8.com/ios/100/expo.png) | ![](https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/readme/dpg_logo_button.png) | ![](https://raw.githubusercontent.com/flet-dev/flet/321c28be6834c1b5f687dc63c55586d03d0c29aa/media/logo/flet-logo.svg) | ...
+Node.js | Bun | React | Vite | Electron | Plain JS | Expo | ...
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: 
+![](https://img.icons8.com/fluency/96/node-js.png) | ![](https://bun.sh/logo.svg) | ![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png) | ![](https://img.icons8.com/fluency/96/vite.png) | ![](https://github.com/user-attachments/assets/efbe777c-ecbb-434b-a3a3-16004bdd5780) | ![](https://img.icons8.com/color/96/javascript--v1.png) | ![](https://img.icons8.com/ios/100/expo.png) | ...
 
 
 ### AI
