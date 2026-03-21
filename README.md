@@ -1,8 +1,10 @@
+[<img width="125" align="right" src="https://cdn.jsdmirror.com/gh/for-the-zero/Alteidos/ZERO-v1/%E7%B4%A0%E6%9D%90/%E7%AB%8B%E7%BB%981.png" />](https://github.com/for-the-zero/Alteidos)
+
 # Hi! I'm for_the_zero
 
-## [>> 前往个人网站吧 <<](https://ftz.is-a.dev/)
+**[>> 前往个人网站吧 <<](https://ftz.is-a.dev/)**
 
-## [>> Go To My Personal Website<<](https://ftz.is-a.dev/)
+**[>> Go To My Personal Website<<](https://ftz.is-a.dev/)**
 
 ---
 
