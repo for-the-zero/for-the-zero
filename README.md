@@ -1,10 +1,10 @@
-[<img width="125" align="right" src="https://cdn.jsdmirror.com/gh/for-the-zero/Alteidos/ZERO-v1/%E7%B4%A0%E6%9D%90/%E7%AB%8B%E7%BB%981.png" />](https://github.com/for-the-zero/Alteidos)
+[<img width="125" align="right" src="https://github.com/user-attachments/assets/9435ecde-e20f-410b-8d3d-f0b9bbed4711" />](https://github.com/for-the-zero/Alteidos)
 
 # Hi! I'm for_the_zero
 
-**[>> 前往个人网站吧 <<](https://ftz.is-a.dev/)**
+**[>> 个人网站 <<](https://ftz.is-a.dev/)** (介绍/链接/友链/博客)
 
-**[>> Go To My Personal Website<<](https://ftz.is-a.dev/)**
+**[>> Personal Website<<](https://ftz.is-a.dev/)** (Intro/Links/Blog)
 
 ---
 
