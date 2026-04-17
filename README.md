@@ -1,4 +1,4 @@
-[<img width="125" align="right" src="https://github.com/user-attachments/assets/9435ecde-e20f-410b-8d3d-f0b9bbed4711" />](https://github.com/for-the-zero/Alteidos)
+[<img width="125" align="right" alt="Alteidos" src="https://github.com/user-attachments/assets/1aed29b3-72a2-48de-942b-d4ff6c842792" />](https://github.com/for-the-zero/Alteidos)
 
 # Hi! I'm for_the_zero
 
